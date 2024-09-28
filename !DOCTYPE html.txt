@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raghavendra Nayanuri - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Raghavendra Nayanuri</h1>
+        <p>Email: <a href="mailto:nayanurr@mail.gvsu.edu">nayanurr@mail.gvsu.edu</a> | Phone: +1-6166171184</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Passionate and dedicated towards work. Enthusiastic about learning new technologies, teamwork, and innovative working methods. 
+            Actively looking for a role where I can utilize my knowledge and experience to propose solutions, deliver projects on time, and grow professionally along with the organization.
+        </p>
+    </section>
+
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <div class="experience-item">
+            <h3>SharePoint Application Development</h3>
+            <p><strong>Datamatics Global Services Limited</strong> - Bangalore (April 2023 - August 2023)</p>
+            <ul>
+                <li>Developed and supported applications using SharePoint Online and PowerApps.</li>
+                <li>Actively worked on SharePoint online environment, including creating sites and libraries.</li>
+                <li>Worked with Power Automate to automate workflows.</li>
+            </ul>
+        </div>
+
+        <div class="experience-item">
+            <h3>Software Engineer</h3>
+            <p><strong>UST Technology Services</strong> - Hyderabad (November 2021 - April 2023)</p>
+            <ul>
+                <li>Administered SharePoint Online and managed user permissions and licenses.</li>
+                <li>Developed automated workflows using Power Automate.</li>
+            </ul>
+        </div>
+
+        <div class="experience-item">
+            <h3>Software Engineer</h3>
+            <p><strong>CGI Information System</strong> - Bangalore (March 2019 - November 2021)</p>
+            <ul>
+                <li>Worked on migration projects and provided day-to-day user support.</li>
+                <li>Used Sharegate for migrating SharePoint content.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>SharePoint Online, SharePoint 2016, SharePoint 2013</li>
+            <li>PowerApps, Power Automate</li>
+            <li>O365 Apps (OneDrive, OneNote, MS Teams)</li>
+            <li>PowerShell scripting for SharePoint</li>
+            <li>Content migration using Sharegate tool</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-item">
+            <h3>RD Support - Chick-fil-A</h3>
+            <p>Managed SharePoint Online and PowerApps applications for restaurant development support.</p>
+        </div>
+        <div class="project-item">
+            <h3>2010 Workflow Modernization - Shell Pvt Ltd</h3>
+            <p>Migrated 2010 workflows to Power Automate and provided ongoing support for PowerApps applications.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2023 Raghavendra Nayanuri</p>
+    </footer>
+</body>
+</html>
